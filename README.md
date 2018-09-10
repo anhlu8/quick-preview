@@ -1,6 +1,6 @@
 Shopify App:
 
-I developed a Node.js + Express application that connects to Shopify. My application will authenticate with a shop & help eCommerce shop owners on Shopify automate their business operations.
+I developed a Node.js + Express application that connects to Shopify. My application will authenticate with a shop & help eCommerce shop owners on Shopify automate their business operations by adding features & functionalities to their online stores.
 
 Technologies used:
 ngrok (to create a public HTTPS address)
